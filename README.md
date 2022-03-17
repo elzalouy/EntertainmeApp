@@ -20,7 +20,7 @@ A webise for organizing entertainment, iniviting public and international artist
 I was responsible for building the App from XD screens, integrating with Redux Store and API using Rest.
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install EscrowBchain.
+Use the package manager [npm](https://www.npmjs.com/) to install entertainme.
 
 ```bash
 npm install
