@@ -1,6 +1,6 @@
 # EntertainmeApp
 
-A webise for organizing entertainment, iniviting public and international artists, producing entertainment equipments.
+A Mobile for organizing entertainment, iniviting public and international artists, producing entertainment equipments.
   - Login / Register / login with Facebook and Google
   - Artists
   - Categories.
